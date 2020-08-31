@@ -36,7 +36,7 @@ $ npm run build
 
 ## Description
 
-<strong> Run below API in Postman and see the output with all User crwated in your Stripe account also. </strong>
+Run below API in Postman and see the output with all User crwated in your Stripe account also.
 
 <strong> For create users in your database and create customer and their invoice into stripe: </strong>
 
